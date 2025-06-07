@@ -1,0 +1,29 @@
+{
+  "result": {
+    "input": {
+      "input1": {
+        "input2": {
+          "input3": {
+            "input4": {
+              "input5": {
+                "input6": {
+                  "input7": {
+                    "input8": "北京 华北"
+                  },
+                  "input9": {
+                    "input10": {
+                      "input11": {
+                        "input12": "上海 华东"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
